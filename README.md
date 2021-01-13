@@ -1,0 +1,1 @@
+# rails_infra_template
